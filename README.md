@@ -1,3 +1,3 @@
-# express-social-app
+# express-boilerplate
 
-this is simple minimal social app written on express
+this is express boilerplate
